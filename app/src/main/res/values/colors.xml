@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="switch_color">#079ffe</color>
+    <color name="gray_light">#e7e5e5</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="dialog_blue">#037BFF</color>
+</resources>
